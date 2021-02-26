@@ -8,6 +8,6 @@ Note:
 * Calendar WIP
 * Links in footers are not clickable, WIP
 
-Creidts:
+Credits:
 
 Big thanks to Jose Salvatierra! This project is impossible withour your help!
